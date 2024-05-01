@@ -1,0 +1,146 @@
+{
+  "company": {
+    "name": "React landing page 2021",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Doctors",
+      "href": "doctors"
+    },
+    {
+      "name": "Labs",
+      "href": "labs"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "Featues",
+      "href": "features"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Welcome to",
+    "subtitle": "MediLogs.",
+    "description": "Bridging the Gap in Healthcare by Creating a Unified Ecosystem Connecting Patients, Doctors, and Clinical Labs - Enabling Full Patient Control of Medical Histories and Empowering Data-Driven Healthcare Decisions.",
+    "img": "/assets/images/happyTeam.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+    }
+  },
+  "product": {
+    "title": "What Do We Do?",
+    "items": [
+      {
+        "title": "Integrated Healthcare Ecosystem",
+        "description": "MediLogs revolutionizes healthcare management by providing a unified platform where patients, doctors, and clinical labs can effortlessly interact. Our comprehensive ecosystem supports real-time sharing of medical histories, diagnostic reports, and treatment plans across the healthcare continuum.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "Smart Automation and Personalization",
+        "description": "Our smart appointment scheduling system allows patients to book visits effortlessly, aligning with doctor and lab availability to reduce wait times and improve service delivery. Tailored recommendations help patients connect with the right specialists based on their symptoms and location, ensuring optimal care.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Features",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "React.js",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Basic",
+        "price": "Rs. 3000",
+        "features": [
+          "Entry Level Plan",
+          "Essential Features",
+          "No of Branches: 1"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "Rs. 18000",
+
+        "features": [
+          "Comprehensive Solution",
+          "Scalability",
+          "No of Branches: 10"
+        ]
+      },
+      {
+        "name": "Premium",
+        "price": "Rs. 8000",
+        "features": [
+          "Affordable Solution",
+          "For Mid Sized Businesses",
+          "No of Branches: 4"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "About Us",
+        "href": "#product",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Features",
+        "href": "#features",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Pricing",
+        "href": "#pricing",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Login",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
